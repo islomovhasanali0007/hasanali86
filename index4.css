@@ -1,0 +1,16 @@
+h3 {
+    color: green;
+}
+.q1 {
+    border: 2px solid blue;
+}
+.q2 {
+    border-top: 2px solid blue;
+    border-right: 2px solid red;
+    border-bottom: 2px solid yellow;
+    border-left: 2px solid green;
+}
+.q3 {
+    border: 2px solid green;
+    color: green;
+}
